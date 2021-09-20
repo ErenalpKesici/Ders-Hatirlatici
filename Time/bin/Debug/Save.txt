@@ -1,0 +1,298 @@
+A6 SINIFI AKŞAM GRUBU DERS PROGRAMI - ID 46147.xlsx-060921-.xlsx*C-40 DERS PROGRAMI(13385)-C40 -(EYL-2021)-.xlsx*C41 SINIFI SABAH GRUBU DERS PROGRAMI - ID 46089.xlsx-060921-.xlsx*
+1/9/2021 18*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+1/9/2021 19*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+1/9/2021 20*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+2/9/2021 18*C40*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+2/9/2021 19*C40*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+2/9/2021 20*C40*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+3/9/2021 18*C40*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+3/9/2021 19*C40*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+3/9/2021 20*C40*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+9/9/2021 15*C40*1 - Açılış, Tanışma, Programın Tanıtımı Ve Ön Test Uygulaması*CANPOLAT CERAN*ÖE
+9/9/2021 16*C40*2 - İş Sağlığı Ve Güvenliğinin Kavram Ve Kurallarının Gelişimi*CANPOLAT CERAN*ÖE
+9/9/2021 17*C40*2 - İş Sağlığı Ve Güvenliğinin Kavram Ve Kurallarının Gelişimi*CANPOLAT CERAN*ÖE
+9/9/2021 18*C40*3 - İş Sağlığı Ve Güvenliğine Genel Bakış Ve Güvenlik Kültürü*CANPOLAT CERAN*ÖE
+9/9/2021 19*C40*3 - İş Sağlığı Ve Güvenliğine Genel Bakış Ve Güvenlik Kültürü*CANPOLAT CERAN*ÖE
+9/9/2021 20*C40*4 - Türkiye'de Ve Dünyada İş Sağlığı Ve Güvenliği*CANPOLAT CERAN*ÖE
+10/9/2021 15*C40*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+10/9/2021 16*C40*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+10/9/2021 17*C40*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+10/9/2021 18*C40*8 - Ulusal Ve Uluslararası Kuruluşlar Ve Sözleşmeler*CANPOLAT CERAN*ÖE
+10/9/2021 19*C40*9 - İş Sağlığı Ve Güvenliği Hizmetleri*VESİLE ŞAFAKOĞLU*ÖE
+10/9/2021 20*C40*9 - İş Sağlığı Ve Güvenliği Hizmetleri*VESİLE ŞAFAKOĞLU*ÖE
+11/9/2021 15*C40*18 - Biyolojik Risk Etmenleri*HACER KIRKLIKÇI*ÖE
+11/9/2021 16*C40*19 - Psikososyal Risk Etmenleri*HACER KIRKLIKÇI*ÖE
+11/9/2021 17*C40*42 - Sağlık Gözetimi Ve Meslek Hastalıkları*HACER KIRKLIKÇI*ÖE
+11/9/2021 18*C40*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+11/9/2021 19*C40*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+11/9/2021 20*C40*26 - El Aletlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+12/9/2021 15*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+12/9/2021 16*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+12/9/2021 17*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+12/9/2021 18*C40*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+12/9/2021 19*C40*14 - İş Hijyeni*ATALAY KESİCİ*ÖE
+12/9/2021 20*C40*46 - Çalışma Hayatında Etik*ATALAY KESİCİ*ÖE
+13/9/2021 15*C40*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+13/9/2021 16*C40*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+13/9/2021 17*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+13/9/2021 18*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+13/9/2021 19*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+13/9/2021 20*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 15*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 16*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 17*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 18*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 19*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 20*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+14/9/2021 18*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+14/9/2021 19*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+14/9/2021 20*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+15/9/2021 15*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+15/9/2021 16*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+15/9/2021 17*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+15/9/2021 18*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+15/9/2021 19*C40*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+15/9/2021 20*C40*10 - İş Sağlığı Ve Güvenliği Kurulları*VESİLE ŞAFAKOĞLU*ÖE
+15/9/2021 18*C41*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+15/9/2021 19*C41*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+15/9/2021 20*C41*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+16/9/2021 15*C40*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+16/9/2021 16*C40*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+16/9/2021 17*C40*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+16/9/2021 18*C40*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+16/9/2021 19*C40*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+16/9/2021 20*C40*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+16/9/2021 18*C41*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+16/9/2021 19*C41*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+16/9/2021 20*C41*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+17/9/2021 15*C40*15 - İşyeri Bina Ve Eklentileri*VESİLE ŞAFAKOĞLU*ÖE
+17/9/2021 16*C40*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+17/9/2021 17*C40*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+17/9/2021 18*C40*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+17/9/2021 19*C40*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+17/9/2021 20*C40*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+18/9/2021 15*C40*40 - İş Ekipmanlarının Tasarım, İmalat Ve Kullanımında İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+18/9/2021 16*C40*40 - İş Ekipmanlarının Tasarım, İmalat Ve Kullanımında İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+18/9/2021 17*C40*13 - Çalışma Ortamı Gözetimi*ATALAY KESİCİ*ÖE
+18/9/2021 18*C40*43 - İş Güvenliği Yönünden Yapılması Gereken Kontroller Ve Düzenlenecek Belgeler*ATALAY KESİCİ*ÖE
+18/9/2021 19*C40*27 - Bakım - Onarım İşlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+18/9/2021 20*C40*31 - Havalandırma Ve İklimlendirme Prensipleri*ATALAY KESİCİ*ÖE
+19/9/2021 14*C40*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+19/9/2021 16*C40*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+19/9/2021 17*C40*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+19/9/2021 18*C40*29 - Acil Durum Planları*ATALAY KESİCİ*ÖE
+19/9/2021 19*C40*29 - Acil Durum Planları*ATALAY KESİCİ*ÖE
+19/9/2021 20*C40*25 - Motorlu Araçlarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+20/9/2021 15*C40*47 - Yetişkin Eğitimi, İşyerinde Sağlık Güvenlik Eğitimi Ve İletişim*VESİLE ŞAFAKOĞLU*ÖE
+20/9/2021 16*C40*47 - Yetişkin Eğitimi, İşyerinde Sağlık Güvenlik Eğitimi Ve İletişim*VESİLE ŞAFAKOĞLU*ÖE
+20/9/2021 17*C40*39 - Kişisel Koruyucu Donanımlar*VESİLE ŞAFAKOĞLU*ÖE
+20/9/2021 18*C40*39 - Kişisel Koruyucu Donanımlar*VESİLE ŞAFAKOĞLU*ÖE
+20/9/2021 19*C40*20 - Ergonomi*ATALAY KESİCİ*ÖE
+20/9/2021 20*C40*20 - Ergonomi*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 15*C40*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 16*C40*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 17*C40*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 18*C40*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 19*C40*35 - Elle Kaldırma Ve Taşıma İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 20*C40*35 - Elle Kaldırma Ve Taşıma İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+21/9/2021 18*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+21/9/2021 19*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+21/9/2021 20*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*UE
+22/9/2021 15*C40*33 - Kapalı Alanlarda Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+22/9/2021 16*C40*33 - Kapalı Alanlarda Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+22/9/2021 17*C40*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+22/9/2021 18*C40*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+22/9/2021 19*C40*21 - Korunma Politikaları*VESİLE ŞAFAKOĞLU*ÖE
+22/9/2021 20*C40*21 - Korunma Politikaları*VESİLE ŞAFAKOĞLU*ÖE
+22/9/2021 18*A6*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+22/9/2021 19*A6*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+22/9/2021 20*A6*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+23/9/2021 15*C40*32 - Basınçlı Kaplarla Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+23/9/2021 16*C40*32 - Basınçlı Kaplarla Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+23/9/2021 17*C40*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+23/9/2021 18*C40*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+23/9/2021 19*C40*36 - Yüksekte Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+23/9/2021 20*C40*49 - Değerlendirme Ve Son Test*VESİLE ŞAFAKOĞLU*ÖE
+23/9/2021 18*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+23/9/2021 19*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+23/9/2021 20*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*UE
+24/9/2021 9*C41*1 - Açılış, Tanışma, Programın Tanıtımı Ve Ön Test Uygulaması*CANPOLAT CERAN*ÖE
+24/9/2021 10*C41*2 - İş Sağlığı Ve Güvenliğinin Kavram Ve Kurallarının Gelişimi*CANPOLAT CERAN*ÖE
+24/9/2021 11*C41*2 - İş Sağlığı Ve Güvenliğinin Kavram Ve Kurallarının Gelişimi*CANPOLAT CERAN*ÖE
+24/9/2021 12*C41*3 - İş Sağlığı Ve Güvenliğine Genel Bakış Ve Güvenlik Kültürü*CANPOLAT CERAN*ÖE
+24/9/2021 13*C41*3 - İş Sağlığı Ve Güvenliğine Genel Bakış Ve Güvenlik Kültürü*CANPOLAT CERAN*ÖE
+24/9/2021 14*C41*4 - Türkiye'de Ve Dünyada İş Sağlığı Ve Güvenliği*CANPOLAT CERAN*ÖE
+24/9/2021 15*A6*1 - Açılış, Tanışma, Programın Tanıtımı Ve Ön Test Uygulaması*CANPOLAT CERAN*ÖE
+24/9/2021 16*A6*2 - İş Sağlığı Ve Güvenliğinin Kavram Ve Kurallarının Gelişimi*CANPOLAT CERAN*ÖE
+24/9/2021 17*A6*4 - Türkiye'de Ve Dünyada İş Sağlığı Ve Güvenliği*CANPOLAT CERAN*ÖE
+24/9/2021 18*A6*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+24/9/2021 19*A6*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+24/9/2021 20*A6*9 - İş Sağlığı Ve Güvenliği Hizmetleri*VESİLE ŞAFAKOĞLU*ÖE
+25/9/2021 9*C41*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+25/9/2021 10*C41*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+25/9/2021 11*C41*6 - İş Hukuku*CANPOLAT CERAN*ÖE
+25/9/2021 12*C41*8 - Ulusal Ve Uluslararası Kuruluşlar Ve Sözleşmeler*CANPOLAT CERAN*ÖE
+25/9/2021 13*C41*9 - İş Sağlığı Ve Güvenliği Hizmetleri*VESİLE ŞAFAKOĞLU*ÖE
+25/9/2021 14*C41*9 - İş Sağlığı Ve Güvenliği Hizmetleri*VESİLE ŞAFAKOĞLU*ÖE
+25/9/2021 15*A6*9 - İş Sağlığı Ve Güvenliği Hizmetleri*VESİLE ŞAFAKOĞLU*ÖE
+25/9/2021 16*A6*10 - İş Sağlığı Ve Güvenliği Kurulları*VESİLE ŞAFAKOĞLU*ÖE
+25/9/2021 17*A6*15 - İşyeri Bina Ve Eklentileri*VESİLE ŞAFAKOĞLU*ÖE
+25/9/2021 18*A6*14 - İş Hijyeni*ATALAY KESİCİ*ÖE
+25/9/2021 19*A6*27 - Bakım - Onarım İşlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+25/9/2021 20*A6*27 - Bakım - Onarım İşlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+26/9/2021 9*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 10*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 11*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 12*C41*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 13*C41*14 - İş Hijyeni*ATALAY KESİCİ*ÖE
+26/9/2021 14*C41*46 - Çalışma Hayatında Etik*ATALAY KESİCİ*ÖE
+26/9/2021 15*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 16*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 17*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 18*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 19*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+26/9/2021 20*A6*17 - Kimyasal Risk Etmenleri*ATALAY KESİCİ*ÖE
+27/9/2021 9*C41*10 - İş Sağlığı Ve Güvenliği Kurulları*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 10*C41*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 11*C41*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 12*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 13*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 14*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 15*A6*35 - Elle Kaldırma Ve Taşıma İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 16*A6*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 17*A6*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 18*A6*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 19*A6*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+27/9/2021 20*A6*11 - İş Sağlığı Ve Güvenliği Yönetim Sistemleri*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 9*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 10*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 11*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 12*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 13*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 14*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 15*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 16*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 17*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 18*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 19*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+28/9/2021 20*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 9*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 10*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 11*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 12*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 13*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 14*C41*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 15*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 16*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 17*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 18*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 19*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+29/9/2021 20*A6*12 - Risk Yönetimi Ve Değerlendirmesi*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 9*C41*26 - El Aletlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 10*C41*47 - Yetişkin Eğitimi, İşyerinde Sağlık Güvenlik Eğitimi Ve İletişim*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 11*C41*47 - Yetişkin Eğitimi, İşyerinde Sağlık Güvenlik Eğitimi Ve İletişim*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 12*C41*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 13*C41*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 14*C41*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 15*A6*21 - Korunma Politikaları*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 16*A6*21 - Korunma Politikaları*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 17*A6*39 - Kişisel Koruyucu Donanımlar*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 18*A6*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 19*A6*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+30/9/2021 20*A6*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 9*C41*15 - İşyeri Bina Ve Eklentileri*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 10*C41*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 11*C41*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 12*C41*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 13*C41*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 14*C41*28 - Yangın*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 15*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 16*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 17*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 18*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 19*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+1/10/2021 20*A6*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+2/10/2021 9*C41*18 - Biyolojik Risk Etmenleri*HACER KIRKLIKÇI*ÖE
+2/10/2021 10*C41*19 - Psikososyal Risk Etmenleri*HACER KIRKLIKÇI*ÖE
+2/10/2021 11*C41*42 - Sağlık Gözetimi Ve Meslek Hastalıkları*HACER KIRKLIKÇI*ÖE
+2/10/2021 12*C41*40 - İş Ekipmanlarının Tasarım, İmalat Ve Kullanımında İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+2/10/2021 13*C41*40 - İş Ekipmanlarının Tasarım, İmalat Ve Kullanımında İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+2/10/2021 14*C41*13 - Çalışma Ortamı Gözetimi*ATALAY KESİCİ*ÖE
+2/10/2021 15*A6*18 - Biyolojik Risk Etmenleri*HACER KIRKLIKÇI*ÖE
+2/10/2021 16*A6*19 - Psikososyal Risk Etmenleri*HACER KIRKLIKÇI*ÖE
+2/10/2021 17*A6*42 - Sağlık Gözetimi Ve Meslek Hastalıkları*HACER KIRKLIKÇI*ÖE
+2/10/2021 18*A6*40 - İş Ekipmanlarının Tasarım, İmalat Ve Kullanımında İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+2/10/2021 19*A6*43 - İş Güvenliği Yönünden Yapılması Gereken Kontroller Ve Düzenlenecek Belgeler*ATALAY KESİCİ*ÖE
+2/10/2021 20*A6*46 - Çalışma Hayatında Etik*ATALAY KESİCİ*ÖE
+3/10/2021 9*C41*43 - İş Güvenliği Yönünden Yapılması Gereken Kontroller Ve Düzenlenecek Belgeler*ATALAY KESİCİ*ÖE
+3/10/2021 10*C41*27 - Bakım - Onarım İşlerinde İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+3/10/2021 11*C41*31 - Havalandırma Ve İklimlendirme Prensipleri*ATALAY KESİCİ*ÖE
+3/10/2021 12*C41*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+3/10/2021 13*C41*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+3/10/2021 14*C41*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+3/10/2021 15*A6*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+3/10/2021 16*A6*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+3/10/2021 17*A6*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+3/10/2021 18*A6*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+3/10/2021 19*A6*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+3/10/2021 20*A6*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+4/10/2021 9*C41*20 - Ergonomi*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 10*C41*20 - Ergonomi*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 11*C41*21 - Korunma Politikaları*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 12*C41*21 - Korunma Politikaları*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 13*C41*39 - Kişisel Koruyucu Donanımlar*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 14*C41*39 - Kişisel Koruyucu Donanımlar*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 15*A6*32 - Basınçlı Kaplarla Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 16*A6*32 - Basınçlı Kaplarla Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 17*A6*20 - Ergonomi*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 18*A6*20 - Ergonomi*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 19*A6*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+4/10/2021 20*A6*47 - Yetişkin Eğitimi, İşyerinde Sağlık Güvenlik Eğitimi Ve İletişim*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 9*C41*35 - Elle Kaldırma Ve Taşıma İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 10*C41*35 - Elle Kaldırma Ve Taşıma İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 11*C41*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 12*C41*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 13*C41*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 14*C41*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 15*A6*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 16*A6*24 - Kaldırma Araçlarında İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 17*A6*25 - Motorlu Araçlarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 18*A6*25 - Motorlu Araçlarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 19*A6*36 - Yüksekte Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+5/10/2021 20*A6*33 - Kapalı Alanlarda Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 9*C41*36 - Yüksekte Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 10*C41*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 11*C41*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 12*C41*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 13*C41*33 - Kapalı Alanlarda Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 14*C41*33 - Kapalı Alanlarda Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 15*A6*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+6/10/2021 16*A6*23 - Elektrikle Çalışmalarda İş Sağlığı Ve Güvenliği*ATALAY KESİCİ*ÖE
+6/10/2021 17*A6*13 - Çalışma Ortamı Gözetimi*ATALAY KESİCİ*ÖE
+6/10/2021 18*A6*26 - El Aletlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 19*A6*31 - Havalandırma Ve İklimlendirme Prensipleri*VESİLE ŞAFAKOĞLU*ÖE
+6/10/2021 20*A6*31 - Havalandırma Ve İklimlendirme Prensipleri*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 9*C41*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 10*C41*22 - Kaynak İşlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 11*C41*32 - Basınçlı Kaplarla Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 12*C41*32 - Basınçlı Kaplarla Çalışmalarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 13*C41*29 - Acil Durum Planları*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 14*C41*29 - Acil Durum Planları*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 15*A6*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 16*A6*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 17*A6*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 18*A6*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 19*A6*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+7/10/2021 20*A6*16 - Fiziksel Risk Etmenleri*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 9*C41*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+8/10/2021 10*C41*38 - Maden İşyerlerinde İş Sağlığı Ve Güvenliği*BEYHAN ŞAHİN*ÖE
+8/10/2021 11*C41*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 12*C41*37 - İnşaat İşyerlerinde İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 13*C41*25 - Motorlu Araçlarda İş Sağlığı Ve Güvenliği*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 14*C41*49 - Değerlendirme Ve Son Test*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 15*A6*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 16*A6*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 17*A6*41 - İş Kazaları*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 18*A6*29 - Acil Durum Planları*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 19*A6*29 - Acil Durum Planları*VESİLE ŞAFAKOĞLU*ÖE
+8/10/2021 20*A6*49 - Değerlendirme Ve Son Test*VESİLE ŞAFAKOĞLU*ÖE
